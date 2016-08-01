@@ -15,7 +15,7 @@ var printLetter1 = function () {
 	//you will need this string
   
 
-  return 'print the fourth letter in this string'[4];
+  return 'print the fourth letter in this string'[3];
 };
 
 /*
